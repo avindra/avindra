@@ -1,6 +1,3 @@
-## Hello World
+## connect
 
-Perhaps you are interested in:
-
- * [a (tiny) personal site](https://avindra.github.io/)
- * [my professional experience](https://www.linkedin.com/in/avindra/)
+* [🕸️ web](https://avindra.github.io/#/about)
