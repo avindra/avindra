@@ -1,3 +1,1 @@
-## connect
-
-* [🕸️ web](https://avindra.github.io/#/about)
+[🕸️ web](https://avindra.github.io/#/about)
