@@ -1,5 +1,5 @@
 [🕸️ my Website](https://dra.vin/)
 
-I ❤️ GitHub actions ([when it works](https://www.githubstatus.com/incidents/tf9v5jjmq2lg) 👀)
+I ❤️ GitHub actions. See [🌸 peaceiris](https://github.com/peaceiris) for all your static hosting needs.  
 
-Look at [🌸 peaceiris](https://github.com/peaceiris) to understand what is possible now on Github.
+If you are hiring and would like to sponsor my open source work, [send me and e-mail](https://dra.vin/#/about).
