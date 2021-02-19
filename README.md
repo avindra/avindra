@@ -2,6 +2,6 @@ I ❤️ GitHub actions. See [🌸 peaceiris](https://github.com/peaceiris) for 
 
 See [🕸️ my Website](https://dra.vin/) for games and information about UNIX.
  
-I am available for hire in all manners of software.
+I am available for hire in all manners of software in the United States. Remote preferred.
 
 [See my terms](https://dra.vin/#/hire), and let's connect if you're on the same page.
