@@ -1,1 +1,1 @@
-See [🕸️ my Website](https://dra.vin/) for games and information about UNIX.
+See [🕸️ my Website](https://dra.vin/) for games and information about computers.
