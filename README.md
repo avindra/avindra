@@ -1,1 +1,1 @@
-See [🕸️ my Website](https://dra.vin/) for games, information and more about me.
+Please see [🕸️ my developments](https://dra.vin/#/dev). Thank you.
